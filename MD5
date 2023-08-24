@@ -1,11 +1,15 @@
-ecfa26320627ab237d69d47512b3c55b *DESCRIPTION
+6982e894a998904ab7fa17438edaa324 *DESCRIPTION
 0087b38211e942a64d9d90331e27b67d *NAMESPACE
 23eec11251c2398ee3dba05136711b67 *NEWS.md
 837a8324a1a395bce3f76cc594df2c46 *R/cv.plasso.R
 74d51e0b826a69f0f9d181ddd7cc1cda *R/internal.plasso.R
 d725e6e398b15ffe3680f16fe794225f *R/plasso.R
-18c710e1395556255b87597338ce4f8e *R/toeplitz.R
+5e2eeca21b436320cc0333d7e24d67b6 *R/toeplitz.R
+ba3f3153a370520417f8c1bb7a56ecd1 *build/vignette.rds
 f09bd24504887c8436c4c1d6d2bd537d *data/toeplitz.RData
+3801c47ce01fe1fa1d3b4cc889c2770f *inst/doc/plasso.R
+e9a338a413920e01e733905882e0c9e3 *inst/doc/plasso.Rmd
+473af7d56dea8f5a82ff0884692a3b49 *inst/doc/plasso.html
 7d94a3128b430c0632fa82b6d7a5f551 *man/CV_core.Rd
 e0c018cd70b22022ac2e14ebcf97cb55 *man/add_intercept.Rd
 55b507d9a596074d55860756c7938b27 *man/coef.cv.plasso.Rd
@@ -26,7 +30,7 @@ fdab416cf6dc75239e7107127857df62 *man/predict.plasso.Rd
 c83cc62f731bcce3d35791a0af153659 *man/print.summary.cv.plasso.Rd
 0d7bd7891711bda68c68b41d630fe239 *man/summary.cv.plasso.Rd
 27d97d97527cdab3aec8ee378831fff5 *man/summary.plasso.Rd
-388a02ef19af2d22588efdd34c88147a *man/toeplitz.Rd
+b2c7b2ef5173999961009b1b76c0ac37 *man/toeplitz.Rd
 2845336a6eec6d045ebb3e9f686ca9b1 *tests/testthat.R
 d3defc06b6c9a389d636b4dbc8fbbc24 *tests/testthat/test-add_intercept.R
 730a6a328ba80cb220c80ae9dc093082 *tests/testthat/test-find_Xse_ind.R
@@ -34,4 +38,6 @@ d3defc06b6c9a389d636b4dbc8fbbc24 *tests/testthat/test-add_intercept.R
 f844097288c8cb22ccc612b4795ebcdc *tests/testthat/test-fitted_values_cv.R
 a458b7461ced1fed1ac8425f54eca2ae *tests/testthat/test-handle_weights.R
 407b0f009506328fac61f2aec2efb742 *tests/testthat/test-norm_w_to_n.R
-3226e08bf35793fd1022b462b9971735 *tests/testthat/test-predict.R
+6a805854c35510a9fcbd9f39cbfc2a4e *tests/testthat/test-predict.R
+ddf3e90bcafef80c83a275064fe090d0 *vignettes/assets/plasso_refs.bib
+e9a338a413920e01e733905882e0c9e3 *vignettes/plasso.Rmd

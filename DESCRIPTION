@@ -1,7 +1,7 @@
 Package: plasso
 Type: Package
 Title: Cross-Validated (Post-) Lasso
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Glaisner", "Stefan", email = "stefan.glaisner@student.uni-tuebingen.de", role = c("aut","cre")),
     person("Knaus", "Michael C.", email = "michael.knaus@uni-tuebingen.de", role = "ctb", comment = c(ORCID = "0000-0002-7328-1363"))
@@ -21,9 +21,9 @@ RoxygenNote: 7.2.3
 Suggests: testthat (>= 3.0.0), knitr, rmarkdown, xfun
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-08-24 11:36:28 UTC; stefan
+Packaged: 2023-12-03 14:51:20 UTC; stefan
 Author: Glaisner Stefan [aut, cre],
   Knaus Michael C. [ctb] (<https://orcid.org/0000-0002-7328-1363>)
 Maintainer: Glaisner Stefan <stefan.glaisner@student.uni-tuebingen.de>
 Repository: CRAN
-Date/Publication: 2023-08-24 14:40:02 UTC
+Date/Publication: 2023-12-03 15:10:02 UTC
